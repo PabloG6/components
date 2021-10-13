@@ -79,5 +79,5 @@ needs to be changed to:
 ```
 
 Other than the removal of the `legacy` and `standard` appearances, the API of form-field
-matches the one from `@angular/material/from-field`. Simply replace imports to
+matches the one from `@angular/material/form-field`. Simply replace imports to
 `@angular/material/form-field` with imports to `@angular/material-experimental/mdc-form-field`.
